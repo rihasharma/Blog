@@ -1,0 +1,12 @@
+  [
+    {
+      "name": "Post 1",
+      "author": "riha",
+      "content": "hello"   
+    },
+    {
+      "name": "Post 2",
+      "author": "divyam",
+      "content": "hi."
+    }
+  ]
